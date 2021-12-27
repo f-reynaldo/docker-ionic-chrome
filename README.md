@@ -11,6 +11,7 @@
 # Latest Ionic
 
 ### based on the latest Cordova with Android `11` and Node.js `14`
+### added Google Chrome
 
 ---
 
